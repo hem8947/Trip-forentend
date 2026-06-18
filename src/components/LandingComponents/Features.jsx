@@ -32,7 +32,7 @@ const Features = () => {
 
       {/* heading */}
 
-        <div className='text-5xl font-bold text-center mb-10'>
+        <div className='text-5xl font-bold text-center mb-16'>
             <h2>Our Features</h2>
         </div>
 
